@@ -1,0 +1,14 @@
+pandas==1.1.5
+selectorlib
+requests
+bs4
+unidecode
+boto3
+mysql
+matplotlib
+shapely
+geopandas
+ipython
+nbformat>=4.2.0
+plotly
+plotly-express
